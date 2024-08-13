@@ -97,6 +97,10 @@ input {
         padding: 20px;
         width: 85vw;
     }
+    .signUpForm{
+        color: red;
+        font-size: 30px;
+    }
 
 
 }

@@ -100,4 +100,9 @@ input {
         width: 85vw;
     }
 
+    .signUpForm{
+        color: red;
+        font-size: 30px;
+    }
+
 }
